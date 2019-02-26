@@ -1,2 +1,2 @@
 # VCS_MAKSAM_0225
-VilniusCodingSchool_2018-02-25
+VilniusCodingSchool 2018-02-25 Python mokymai
